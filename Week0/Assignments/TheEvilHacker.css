@@ -1,5 +1,5 @@
 /*CSS reset, don't mind it for now. */
-*{
+/*Carla comments: Nice work but you should use indentiation of space between each selector and also use indentiation of space for each properties*/
  margin: 5px;
  padding: 5px;
 }
@@ -9,6 +9,7 @@
  margin: 0px auto;
  padding-bottom: 80px;
 }
+
 #header{
  height: 150px;
  background-color: blue;
@@ -21,6 +22,7 @@
 display: inline-block;
 margin-right: 10px;
 }
+
 #main_content{
  height: 360px;
  width: 725px;
@@ -29,14 +31,15 @@ display: inline-block;
 position: absolute;
 padding-bottom: 25px;
 }
+
 .subcontent{
  height: 200px;
  width: 200px;
  background-color: purple;
 margin-right: 15px;
   display: inline-block
-
 }
+
 #advertisements{
  height: 90px;
  width: 670px;

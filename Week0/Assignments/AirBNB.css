@@ -1,0 +1,35 @@
+body {
+  width: 1000px;
+  margin: 0px;
+}
+
+.img1 {
+   width: 390px;
+   height: 500px;
+
+   display: inline-block;
+ }
+
+.fullSize {
+  width: 100%;
+  height: 500px;
+}
+
+.col {
+  width:300px;
+  display: inline-block;
+}
+
+#header {
+  margin-top: 0px;
+}
+
+.img2 img {
+  width: 200px;
+  height: 200px;
+}
+
+.img3logos img {
+  width: 1000px;
+  height: 100px;
+}

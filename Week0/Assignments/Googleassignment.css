@@ -1,0 +1,16 @@
+
+h3 {
+  margin-bottom: -20px;
+}
+
+#box input {
+  height: 20px;
+  width: 100px;
+  margin-top: 0px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.more {
+  margin-top: 25px;
+}
