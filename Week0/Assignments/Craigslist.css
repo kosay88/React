@@ -1,0 +1,99 @@
+header {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+header form input#go {
+  margin-left: 0px;
+}
+
+header h1,form,select.community,input#go {
+  display: inline-block;
+  margin-left: 60px;
+}
+
+header h1 {
+  background-color:darkgrey;
+  padding-left: 30px;
+  padding-right: 20px;
+}
+
+header input {
+   width: 40px;
+}
+
+.order {
+  display: inline-block;
+  margin-left: 10px;
+
+}
+
+html {
+  background: white;
+}
+
+.general {
+  vertical-align: top;
+  padding: 10px;
+  height: 915px;
+}
+
+.general a,h4 {
+   margin-bottom: 80px;
+   margin-top: 80px;
+}
+
+.general .gen1 {
+  background-color: lightgrey;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.general a {
+  margin-top: 30px;
+}
+
+.column1 .personals,.lastselekt {
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.column2 .sale,.resumes {
+  margin-top: 57px;
+  margin-bottom: 40px;
+}
+
+.general select,input {
+  display: block;
+}
+
+.column1,.column2,.column3 {
+  vertical-align: top;
+  background-color: whitesmoke;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.serchcol {
+  background-color: darkgray;
+  padding-left: 5px;
+  padding-bottom: 60px;
+  padding-top: 10px;
+}
+
+body {
+  background-color:silver;
+  width: 1000px;
+  height: 1100px;
+  margin: auto;
+}
+
+.general {
+  background-color:lightgrey;
+}
+
+h2 {
+  background-color: darkgray;
+  padding-left: 5px;
+  padding-right: 5px;
+}
