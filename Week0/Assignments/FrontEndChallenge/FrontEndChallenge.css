@@ -5,6 +5,10 @@ p {
   margin: 0;
   margin-bottom: 5px;
 }
+.container{
+  width: 50%;
+  min-width : 600px;
+}
 .header {
   margin: auto;
   height: 40px;
@@ -56,6 +60,10 @@ fieldset {
   display: inline-block;
   width: 70%;
 }
+.SendRequest {
+  vertical-align: top;
+}
+
 .column2 .money .SendRequest,img {
   display: inline-block;
 }
@@ -76,18 +84,19 @@ fieldset {
   margin-top: 5px;
   background-color: #e5e5e5;
 }
-.column2 .icons .icons1 .info1,img {
-  display:inline-block;
+
+.column2 .icons div {
+  display: inline-block;
 }
-.column2 .icons .icons2 .info2,img {
-  display:inline-block;
-}
-.column2 .icons .icons3 .info3,img {
-  display:inline-block;
-}
+
 .column2 .icons img {
   vertical-align: top;
   width: 50px;
+}
+.end {
+  margin: auto;
+  width: 100%;
+  min-width : 600px;
 }
 .end .end1 p {
   display: inline-block;
