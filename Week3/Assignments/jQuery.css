@@ -1,0 +1,36 @@
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+.animate {
+  color: blue;
+  background-color: #98bf21;
+  width: 150px;
+  height: 70px;
+  position:absolute;
+}
+
+.Cool {
+  background:red;
+  height:100px;
+  width:100px;
+  position:absolute;
+  margin-top: 100px;
+}
+
+.KOSAY {
+  background-color: red;
+  color: white;
+  margin-top: 220px;
+}
+.KOSAY.green {
+  background-color: green;
+}
