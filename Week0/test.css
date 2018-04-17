@@ -1,0 +1,42 @@
+body {
+  background-color: silver;
+
+}
+div{
+width: 100px;
+height: 100px;
+background-color:red;
+
+
+
+
+
+   /* transform: rotate(20deg); */
+   /* transform: skewY(20deg); */
+   /* transform: scaleY(1.5); */
+
+/* -webkit-text-stroke: 3px black; */
+  /* color: white; */
+
+/* text-shadow: 0 1px 0 black, 0 -1px 0 black, 1px 0 0 black, -1px 0 0 black; */
+/* color: white; */
+
+/* text-shadow: 0 1px 0 white; */
+  /* color: #292929; */
+
+/* -webkit-box-shadow: 1px 1px 3px green, -1px -1px blue; */
+/* -moz-box-shadow: 1px 1px 3px green,-1px -1px blue; */
+/* box-shadow: 1px 1px 3px green, -1px -1px blue; */
+
+/* -webkit-box-shadow: 1px 1px 3px #292929; */
+/* -moz-box-shadow: 1px 1px 3px #292929; */
+/* box-shadow: 1px 1px 3px #292929; */
+
+/* -moz-border-radius: 50px; */
+/* -webkit-border-radius: 50px; */
+ /* border-radius: 50px; */
+
+/* -moz-border-radius: 40px; */
+/* border-radius: 4px; */
+/* border-radius: 40px; */
+}

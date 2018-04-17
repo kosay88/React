@@ -1,0 +1,153 @@
+.IMDbMovies {
+  width: 1000px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.header {
+  background: linear-gradient(white, black);
+  width: 1000px;
+  height: 80px;
+}
+.header input,p {
+  display: inline-block;
+  vertical-align: top;
+
+}
+#IMDb {
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 50%;
+}
+.search {
+  height: 20px;
+  width: 70%;
+  margin-left: 50px;
+  margin-top: 10px;
+  vertical-align: top;
+  display: inline-block;
+}
+#search {
+  display: inline-block;
+  margin-top: 15px;
+  width: 500px;
+}
+.search img {
+  display: inline-block;
+  height: 20px;
+  margin-top: 10px;
+}
+.select {
+  margin-top: -50px;
+  display: inline-block;
+}
+.HelpSndSignIn {
+  margin-left: 820px;
+  margin-top: -40px;
+  height: 10px;
+  vertical-align: top;
+  display: inline-block;
+}
+.HelpSndSignIn p {
+  color: white;
+  margin-top: -5px;
+}
+.HelpSndSignIn img {
+  height: 20px;
+  margin-left: 5px;
+  vertical-align: top;
+  display: inline-block;
+}
+#signin {
+  color: white;
+  background-color: #545252;
+  margin-left: -70px;
+  height: 20px;
+}
+
+.mainpage {
+  width: 1000px;
+}
+.mainpage1 {
+  width: 60%;
+  display: inline-block;
+}
+.mainpage2 {
+  background-color: #dbdbdb;
+  margin-left: 45px;
+  width: 35%;
+  height: 750px;
+  display: inline-block;
+  vertical-align: top;
+}
+.moviepics img {
+  margin-left: 15px;
+  margin-top: 15px;
+  height: 290px;
+  display: inline-block;
+}
+.moviepics a{
+  margin-left: 10px;
+}
+.moviepics {
+  height: 340px;
+  background-color: #606060;
+  margin-right: -50px;
+}
+.mainpage1 h2,p {
+  margin-left: 10px
+}
+.upcomingmovies {
+  width: 650px;
+}
+.upcomingmovies img {
+  margin-left: 10px;
+  height: 230px;
+  display: inline-block;
+}
+#tickets {
+  color: white;
+  background-color: #5294e5;
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 310px;
+  height: 50px;
+}
+.mainpage2 img {
+  height: 240px;
+  margin-left: 10px;
+}
+.mainpage2 p,a {
+  width: 310px;
+}
+.mainpage2 h3 {
+  margin-left: 10px;
+}
+#gallary {
+  margin-left: 10px;
+}
+.IMDbEverywhere {
+  width: 480px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+}
+.IMDbEverywhere img {
+  height: 40px;
+}
+.tailer {
+  margin-left: 10px;
+  margin-top: 10px;
+  height: 40px;
+}
+#amazonlogo {
+  margin-bottom: -10px;
+  height: 30px;
+}
+.Copyright {
+  margin-left: 500px;
+  height: 10px;
+  display: inline-block;
+}
+.Copyright p {
+  margin-top:-10px;
+  color: #70caea;
+}

@@ -3,7 +3,7 @@ $(document).ready(function(){
         $("#hideshow").hide();
     });
     $("#show").click(function(){
-        $("p").show();
+        $("#hideshow").show();
     });
 });
 
