@@ -16,6 +16,6 @@ function handleResults(response_body){
     var url = item.images.fixed_height_downsampled.url;
     var image = $(document.createElement('img'));
     image.attr('src', url)
-    image.appendTo('#photo-container')
+    image.appendTo('.images')
   })
 }
