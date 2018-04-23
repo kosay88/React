@@ -1,5 +1,8 @@
 function searchPixabay(str){
-  var key = "8733404-69a00da7c73a45a5448f6e2cd"
+  // var key = "8733404-69a00da7c73a45a5448f6e2cd"
+
+// key = "AIzaSyAVUD-Wu1YNBF73YYYUv_kMtIk1JifUaVs"
+
   $.ajax({
     url: 'https://pixabay.com/api/?' + 'key=' + key + '&q=' + str ,
     method: 'GET',
