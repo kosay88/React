@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  height: 100%;
+}
+
+.App {
+  background-image: url('https://www.uruit.com/blog/wp-content/uploads/2017/08/github.png');
+  background-color: silver;
+  height: 900px;
+  margin: 10px;
+  text-align: center;
+}
+
+.App input {
+  margin-top: 10px;
+  background-color: black;
+  padding: 10px;
+  color: white;
+}
+
+h1{
+  border: 2px solid silver;
+  border-radius: 20px;
+  padding: 1px;
+  background-color: black;
+  color: white;
+}
+
+p {
+  border: 2px solid silver;
+  border-radius: 5px;
+  padding: 1px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  /* margin-top: 10px; */
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
